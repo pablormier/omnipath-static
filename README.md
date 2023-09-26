@@ -1,2 +1,2 @@
 # omnipath-static
-Omnipath static versions
+Static dumps of Omnipath database https://omnipathdb.org/
